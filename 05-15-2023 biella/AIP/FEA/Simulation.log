@@ -1,0 +1,245 @@
+﻿Studio Analisi statica:1 avviato: 12/05/2023, 16:12:49
+Numero di configurazioni: 1
+Mesh di default: 5119 elementi, 8975 nodi
+Un modello si suddivide in 3 componenti indipendenti
+È stata aggiunta una molla dolce
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 3.4s
+Livello convergenza: 50%
+Affinamento H n. 1: 5584 elementi, 10034 nodi
+
+Un modello si suddivide in 3 componenti indipendenti
+È stata aggiunta una molla dolce
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 2.1s
+Affinamento H n. 2: 5976 elementi, 11202 nodi
+
+Un modello si suddivide in 3 componenti indipendenti
+È stata aggiunta una molla dolce
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 2s
+Livello convergenza: 41%
+Affinamento H n. 3: 8104 elementi, 15066 nodi
+
+Un modello si suddivide in 3 componenti indipendenti
+È stata aggiunta una molla dolce
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 1.6s
+Affinamento H n. 4: 9139 elementi, 17961 nodi
+
+Un modello si suddivide in 3 componenti indipendenti
+È stata aggiunta una molla dolce
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 1.4s
+Livello convergenza: 27%
+Affinamento H n. 5: 11017 elementi, 22743 nodi
+
+Un modello si suddivide in 3 componenti indipendenti
+È stata aggiunta una molla dolce
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 1.4s
+Livello convergenza: 5%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  1.11  on element 6957 completato: 12/05/2023, 16:13:11
+Tempo totale 0:00:22
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:26:49
+Numero di configurazioni: 1
+Mesh di default: 1254 elementi, 2921 nodi
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 2s
+Livello convergenza: 19%
+Affinamento H n. 1: 1445 elementi, 3372 nodi
+
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 1.6s
+Livello convergenza: 1%
+Affinamento H n. 2: 1762 elementi, 4089 nodi
+
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 1.7s
+Livello convergenza: 0%
+Errore di convergenza 
+Studio        Worst Jacobian ratio :  1.2  on element 325 completato: 12/05/2023, 16:26:56
+Tempo totale 0:00:07
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:31:03
+Numero di configurazioni: 1
+Mesh di default: 1349 elementi, 3153 nodi
+Tempo di soluzione 1.7s
+Livello convergenza: 9%
+Errore di convergenza 
+Studio Analisi statica:1 completato: 12/05/2023, 16:31:05
+Tempo totale 0:00:02
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:34:07
+Numero di configurazioni: 1
+Mesh di default: 1124 elementi, 2538 nodi
+Tempo di soluzione 1.4s
+Livello convergenza: 12%
+Raggiunto il numero totale di affinamenti H 
+Studio Analisi statica:1 completato: 12/05/2023, 16:34:08
+Tempo totale 0:00:01
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:35:39
+Numero di configurazioni: 1
+Mesh di default: 1239 elementi, 2668 nodi
+Tempo di soluzione 0.6s
+Livello convergenza: 0%
+Errore di convergenza 
+Studio        Worst Jacobian ratio :  2.44  on element 177 completato: 12/05/2023, 16:35:41
+Tempo totale 0:00:02
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:40:52
+Numero di configurazioni: 1
+Mesh di default: 1148 elementi, 2738 nodi
+Tempo di soluzione 1.6s
+Livello convergenza: 10%
+Raggiunto il numero totale di affinamenti H 
+Studio Analisi statica:1 completato: 12/05/2023, 16:40:54
+Tempo totale 0:00:02
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:44:41
+Numero di configurazioni: 1
+Mesh di default: 2379 elementi, 4956 nodi
+Tempo di soluzione 1.3s
+Livello convergenza: 42%
+Raggiunto il numero totale di affinamenti H 
+Studio Analisi statica:1 completato: 12/05/2023, 16:44:43
+Tempo totale 0:00:02
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:48:07
+Numero di configurazioni: 1
+Mesh di default: 3060 elementi, 6148 nodi
+Tempo di soluzione 1.2s
+Livello convergenza: 13%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  1.95  on element 2440 completato: 12/05/2023, 16:48:10
+Tempo totale 0:00:03
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:49:16
+Numero di configurazioni: 1
+Mesh di default: 3195 elementi, 6332 nodi
+Tempo di soluzione 1.3s
+Livello convergenza: 48%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  1.95  on element 1524 completato: 12/05/2023, 16:49:18
+Tempo totale 0:00:02
+
+Studio Analisi statica:1 avviato: 12/05/2023, 16:51:17
+Numero di configurazioni: 1
+Mesh di default: 3273 elementi, 6477 nodi
+Tempo di soluzione 1.1s
+Livello convergenza: 52%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  1.33  on element 3058 completato: 12/05/2023, 16:51:19
+Tempo totale 0:00:02
+
+Studio Analisi statica:2 avviato: 12/05/2023, 16:55:26
+Numero di configurazioni: 1
+Mesh di default: 3372 elementi, 6730 nodi
+Tempo di soluzione 0.9s
+Livello convergenza: 13%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.4  on element 3159 completato: 12/05/2023, 16:55:28
+Tempo totale 0:00:02
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:27:09
+Numero di configurazioni: 1
+Mesh di default: 2631 elementi, 5629 nodi
+Tempo di soluzione 1.9s
+Livello convergenza: 13%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.36  on element 1980 completato: 12/05/2023, 18:27:14
+Tempo totale 0:00:05
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:29:15
+Numero di configurazioni: 1
+Mesh di default: 2263 elementi, 4915 nodi
+Tempo di soluzione 1.2s
+Livello convergenza: 17%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.17  on element 212 completato: 12/05/2023, 18:29:19
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:33:58
+Numero di configurazioni: 1
+Mesh di default: 2195 elementi, 4783 nodi
+Tempo di soluzione 1.1s
+Livello convergenza: 16%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.17  on element 2112 completato: 12/05/2023, 18:34:02
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:41:12
+Numero di configurazioni: 1
+Mesh di default: 2208 elementi, 4858 nodi
+Tempo di soluzione 1.1s
+Livello convergenza: 10%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.12  on element 1323 completato: 12/05/2023, 18:41:17
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:43:49
+Numero di configurazioni: 1
+Mesh di default: 2197 elementi, 4818 nodi
+Tempo di soluzione 1.1s
+Livello convergenza: 13%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.25  on element 748 completato: 12/05/2023, 18:43:53
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:45:22
+Numero di configurazioni: 1
+Mesh di default: 1826 elementi, 4218 nodi
+Tempo di soluzione 1.4s
+Livello convergenza: 19%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.27  on element 1549 completato: 12/05/2023, 18:45:26
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:47:01
+Numero di configurazioni: 1
+Mesh di default: 1798 elementi, 4144 nodi
+Tempo di soluzione 1.3s
+Livello convergenza: 33%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.27  on element 1686 completato: 12/05/2023, 18:47:05
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:50:11
+Numero di configurazioni: 1
+Mesh di default: 1791 elementi, 4119 nodi
+Tempo di soluzione 1.4s
+Livello convergenza: 17%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.27  on element 344 completato: 12/05/2023, 18:50:15
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:53:02
+Numero di configurazioni: 1
+Mesh di default: 1716 elementi, 3889 nodi
+Tempo di soluzione 1.3s
+Livello convergenza: 17%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  2.27  on element 1202 completato: 12/05/2023, 18:53:06
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:55:02
+Numero di configurazioni: 1
+Mesh di default: 1763 elementi, 3952 nodi
+Tempo di soluzione 1.1s
+Livello convergenza: 2%
+Errore di convergenza 
+Studio        Worst Jacobian ratio :  2.27  on element 1145 completato: 12/05/2023, 18:55:06
+Tempo totale 0:00:04
+
+Studio Analisi statica:2 avviato: 12/05/2023, 18:55:48
+Numero di configurazioni: 1
+Mesh di default: 1752 elementi, 3959 nodi
+Tempo di soluzione 1.1s
+Livello convergenza: 4%
+Errore di convergenza 
+Studio        Worst Jacobian ratio :  2.26  on element 1643 completato: 12/05/2023, 18:55:52
+Tempo totale 0:00:04
+

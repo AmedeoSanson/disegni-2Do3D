@@ -1,0 +1,101 @@
+﻿Studio Analisi statica:1 avviato: 26/05/2023, 13:58:24
+Numero di configurazioni: 4
+Configurazione n. 1
+Mesh di default: 1882 elementi, 3049 nodi
+Tempo di soluzione 0.5s
+Livello convergenza: 19%
+Affinamento H n. 1: 3184 elementi, 5030 nodi
+
+Tempo di soluzione 0.5s
+Livello convergenza: 7%
+Affinamento H n. 2: 8567 elementi, 12705 nodi
+
+Tempo di soluzione 1.1s
+Livello convergenza: 1%
+Affinamento H n. 3: 10907 elementi, 16080 nodi
+
+Tempo di soluzione 1.2s
+Livello convergenza: 6%
+Affinamento H n. 4: 11029 elementi, 16303 nodi
+
+Tempo di soluzione 1.1s
+Livello convergenza: 3%
+Affinamento H n. 5: 13608 elementi, 20116 nodi
+
+Tempo di soluzione 2.2s
+Livello convergenza: 5%
+Raggiunto il numero totale di affinamenti H 
+Configurazione n. 2
+Mesh di default: 901 elementi, 1569 nodi
+Tempo di soluzione 0.3s
+Livello convergenza: 15%
+Affinamento H n. 1: 1463 elementi, 2485 nodi
+
+Tempo di soluzione 0.3s
+Livello convergenza: 5%
+Affinamento H n. 2: 3399 elementi, 5402 nodi
+
+Tempo di soluzione 0.5s
+Livello convergenza: 6%
+Affinamento H n. 3: 5880 elementi, 9066 nodi
+
+Tempo di soluzione 0.7s
+Livello convergenza: 3%
+Affinamento H n. 4: 6827 elementi, 10399 nodi
+
+Tempo di soluzione 0.7s
+Livello convergenza: 2%
+Affinamento H n. 5: 8041 elementi, 12191 nodi
+
+Tempo di soluzione 0.9s
+Livello convergenza: 1%
+Raggiunto il numero totale di affinamenti H 
+Configurazione n. 3
+Mesh di default: 851 elementi, 1539 nodi
+Tempo di soluzione 0.3s
+Livello convergenza: 9%
+Affinamento H n. 1: 1857 elementi, 3190 nodi
+
+Tempo di soluzione 0.4s
+Livello convergenza: 8%
+Affinamento H n. 2: 3290 elementi, 5463 nodi
+
+Tempo di soluzione 0.5s
+Livello convergenza: 1%
+Affinamento H n. 3: 4448 elementi, 7193 nodi
+
+Tempo di soluzione 0.6s
+Livello convergenza: 3%
+Affinamento H n. 4: 6675 elementi, 10499 nodi
+
+Tempo di soluzione 0.8s
+Livello convergenza: 2%
+Affinamento H n. 5: 8928 elementi, 13935 nodi
+
+Tempo di soluzione 1.1s
+Livello convergenza: 0%
+Errore di convergenza 
+Configurazione n. 4
+Mesh di default: 747 elementi, 1379 nodi
+Tempo di soluzione 0.3s
+Livello convergenza: 11%
+Affinamento H n. 1: 1533 elementi, 2677 nodi
+
+Tempo di soluzione 0.4s
+Livello convergenza: 1%
+Affinamento H n. 2: 2732 elementi, 4606 nodi
+
+Tempo di soluzione 0.5s
+Livello convergenza: 2%
+Affinamento H n. 3: 4147 elementi, 6847 nodi
+
+Tempo di soluzione 0.8s
+Livello convergenza: 1%
+Affinamento H n. 4: 7687 elementi, 12236 nodi
+
+Tempo di soluzione 1.8s
+Livello convergenza: 0%
+Errore di convergenza 
+Studio        Worst Jacobian ratio :  2.34  on element 6986 completato: 26/05/2023, 13:58:58
+Tempo totale 0:00:34
+

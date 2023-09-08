@@ -1,0 +1,31 @@
+﻿Studio Analisi statica:1 avviato: 05/05/2023, 16:22:41
+Numero di configurazioni: 1
+Mesh di default: 46363 elementi, 86385 nodi
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 24.1s
+Livello convergenza: 57%
+Alcune parti del modello sono estremamente sottili. Ciò può causare tempi lunghi per la soluzione e la creazione di mesh, oltre a instabilità numeriche nei risultati. Prestare particolare attenzione all'interpretazione dei risultati.
+Body Parte3 is thin
+Affinamento H n. 1: 46277 elementi, 86304 nodi
+
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 27.1s
+Livello convergenza: 50%
+Alcune parti del modello sono estremamente sottili. Ciò può causare tempi lunghi per la soluzione e la creazione di mesh, oltre a instabilità numeriche nei risultati. Prestare particolare attenzione all'interpretazione dei risultati.
+Body Parte3 is thin
+Affinamento H n. 2: 46186 elementi, 86247 nodi
+
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 27.5s
+Livello convergenza: 27%
+Alcune parti del modello sono estremamente sottili. Ciò può causare tempi lunghi per la soluzione e la creazione di mesh, oltre a instabilità numeriche nei risultati. Prestare particolare attenzione all'interpretazione dei risultati.
+Body Parte3 is thin
+Affinamento H n. 3: 46290 elementi, 86435 nodi
+
+La deformazione è molto elevata rispetto alle dimensioni del modello. Verificare che la scala delle impostazioni di carichi e vincoli sia appropriata.
+Tempo di soluzione 29.6s
+Livello convergenza: 10%
+Raggiunto il numero totale di affinamenti H 
+Studio        Worst Jacobian ratio :  1  on element 1 completato: 05/05/2023, 16:25:53
+Tempo totale 0:03:12
+
